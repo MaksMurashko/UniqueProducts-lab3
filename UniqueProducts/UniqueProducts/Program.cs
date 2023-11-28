@@ -5,7 +5,7 @@ using UniqueProducts.Infrastructure;
 using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json;
 
-namespace FuelStationT
+namespace UniqueProducts
 {
     public class Program
     {
